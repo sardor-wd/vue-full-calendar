@@ -8,8 +8,8 @@ Simple Vue Calendar using FullCalendar
 
 ```bash
 git clone https://github.com/sardor-wd/vue-full-calendar
-cd fullcalendar-examples/vue3
-npm install
+cd vue-full-calendar
+npm run dev
 ```
 
 ## Build Commands
